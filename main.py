@@ -7,7 +7,7 @@ import recognize
 
 def title_bar():
     os.system('cls')
-    print("\t***** Face Recognition Attendance System *****")
+    print("\t***** Smart Attendance Tracking System *****")
 
 
 def mainMenu():
