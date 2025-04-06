@@ -13,7 +13,7 @@ def title_bar():
 def mainMenu():
     title_bar()
     print()
-    print(10 * "*", "WELCOME MENU", 10 * "*")
+    print(10 * "*", "DASHBOARD", 10 * "*")
     print("[1] Check Camera")
     print("[2] Capture Faces")
     print("[3] Train Images")
