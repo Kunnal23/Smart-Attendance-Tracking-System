@@ -1,1 +1,1 @@
-Smart Attendance system using Face Recognition in OpenCV
+Smart Attendance Tracking System using Face Recognition in OpenCV
