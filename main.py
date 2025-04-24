@@ -18,7 +18,7 @@ def mainMenu():
     print("[2] Capture Faces")
     print("[3] Train Images")
     print("[4] Recognize & Attendance")
-    print("[6] Quit")
+    print("[5] Quit")
     while True:
         try:
             choice = int(input("Enter Choice: "))
@@ -34,7 +34,7 @@ def mainMenu():
             elif choice == 4:
                 recognizeFaces()
                 break
-            elif choice == 6:
+            elif choice == 5:
                 print("Thank You")
                 break
             else:
