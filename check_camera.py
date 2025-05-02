@@ -1,5 +1,5 @@
+import cv2
 def camer():
-    import cv2
     
     cascade_face = cv2.CascadeClassifier('haarcascade_default.xml')
 
